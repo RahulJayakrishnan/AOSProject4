@@ -1,0 +1,23 @@
+#!/bin/sh
+
+./Client 0 &
+./Client 1 &
+./Client 2 &
+./Client 3 &
+./Client 4 &
+./Client 5 &
+./Client 6 &
+./Client 7 &
+./Client 8 &
+./Client 9 &
+./Client 10 &
+./Client 11 &
+./Client 12 &
+./Client 13 &
+./Client 14 &
+./Client 15 &
+./Client 16 &
+./Client 17 &
+./Client 18 &
+./Client 19 &
+./Client 20 &
